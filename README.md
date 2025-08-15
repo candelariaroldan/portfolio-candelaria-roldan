@@ -3,6 +3,8 @@
 Este es mi portfolio personal, creado para mostrar mi trayectoria, habilidades, proyectos y experiencia profesional como desarrolladora.  
 El objetivo principal es ofrecer una presentación clara y visualmente atractiva de mi perfil, así como facilitar el contacto con potenciales clientes o empleadores.
 
+![Vista previa del portfolio](preview.png)
+
 ## 🚀 Tecnologías utilizadas
 
 - **HTML5** – Estructura del sitio.
